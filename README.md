@@ -4,7 +4,7 @@ Telegram bot to download media from Youtube, Spotify, Tiktok, Twitter, Instagram
 
 ## It took me a lot of time to make this bot, so please give it a star if you like it.
 
-Bot link: [Social-Media-Downloader](https://t.me/UltimatumV1_bot)
+Bot link: [𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌](https://t.me/UltimatumV1_bot)
 
 ## Features
 
@@ -19,4 +19,3 @@ Bot link: [Social-Media-Downloader](https://t.me/UltimatumV1_bot)
 ## How to use
 
 -   Send a link to the bot and it will send you the media
--   
